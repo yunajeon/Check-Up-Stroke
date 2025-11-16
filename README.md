@@ -48,7 +48,7 @@
 
 1.  **레포지토리 클론:**
     ```bash
-    git clone [https://github.com/yunajeon/Check-Up-Stroke.git](https://github.com/yunajeon/Check-Up-Stroke.git)
+    git clone https://github.com/yunajeon/Check-Up-Stroke.git
     cd Check-Up-Stroke
     ```
 
