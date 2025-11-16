@@ -1,0 +1,8 @@
+# Python 라이브러리 목록
+
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+jupyter
